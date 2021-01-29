@@ -1,0 +1,10 @@
+C:\Users\yohan\Desktop\Tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa do semaforo.csprojAssemblyReference.cache
+C:\Users\yohan\Desktop\Tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa_do_semaforo.Form1.resources
+C:\Users\yohan\Desktop\Tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa_do_semaforo.Properties.Resources.resources
+C:\Users\yohan\Desktop\Tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa do semaforo.csproj.GenerateResource.cache
+C:\Users\yohan\Desktop\Tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa do semaforo.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\tarefa do semaforo\Tarefa do semaforo\bin\Debug\Tarefa do semaforo.exe.config
+C:\Users\yohan\Desktop\tarefa do semaforo\Tarefa do semaforo\bin\Debug\Tarefa do semaforo.exe
+C:\Users\yohan\Desktop\tarefa do semaforo\Tarefa do semaforo\bin\Debug\Tarefa do semaforo.pdb
+C:\Users\yohan\Desktop\tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa do semaforo.exe
+C:\Users\yohan\Desktop\tarefa do semaforo\Tarefa do semaforo\obj\Debug\Tarefa do semaforo.pdb

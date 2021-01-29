@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa do semaforo", "Tarefa do semaforo\Tarefa do semaforo.csproj", "{12836A04-301E-45E6-8F2B-FB2D756FAA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12836A04-301E-45E6-8F2B-FB2D756FAA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12836A04-301E-45E6-8F2B-FB2D756FAA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12836A04-301E-45E6-8F2B-FB2D756FAA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12836A04-301E-45E6-8F2B-FB2D756FAA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FC088A-308A-4646-A599-5DBF74166838}
+	EndGlobalSection
+EndGlobal
