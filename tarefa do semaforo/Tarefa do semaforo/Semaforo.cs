@@ -21,7 +21,7 @@ namespace Tarefa_do_semaforo
 		public void setVermelho(int rua)
 		{
 			int apagar, set;
-			apagar = 465 - rua * 217;
+			apagar = 489 - 241 * rua;
 			set = rua * 124 - 120;
 			this.posicao = (byte)((int)this.posicao & apagar);
 			this.posicao = (byte)((int)this.posicao | set);
@@ -29,7 +29,7 @@ namespace Tarefa_do_semaforo
 		public void setAmarelo(int rua)
 		{
 			int apagar, set;
-			apagar = 465 - rua * 217;
+			apagar = 489 - 241 * rua;
 			set = rua * 62 - 60;
 			this.posicao = (byte)((int)this.posicao & apagar);
 			this.posicao = (byte)((int)this.posicao | set);
@@ -37,7 +37,7 @@ namespace Tarefa_do_semaforo
 		public void setVerde(int rua)
 		{
 			int apagar, set;
-			apagar = 465 - rua * 217;
+			apagar = 489 - 241 * rua;
 			set = rua * 31 - 30;
 			this.posicao = (byte)((int)this.posicao & apagar);
 			this.posicao = (byte)((int)this.posicao | set);
